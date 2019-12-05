@@ -3,13 +3,13 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: whitesmoke;
+    background: white;
     box-sizing: border-box;
 }
 
 main{
     border-radius: 2px;
-    background: white;
+    background: whitesmoke;
     box-shadow: 0 5px 15px -10px;
     width: 450px;
     height: 500px;
